@@ -23,6 +23,7 @@
             <contentRight>
                 <Button id="_IDGenButton1" text="{i18n>OrderButtonText}" type="Accept" icon="sap-icon://accept" press="handleOrder"/>
                 <Button id="_IDGenButton2" text="{i18n>RejectButtonText}" type="Reject" icon="sap-icon://decline" press="handleOrder2"/>
+                <Button id="_IDGenButton3" text="info" type="Emphasized"/>
             </contentRight>
         </Bar>
     </footer>
